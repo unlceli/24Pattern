@@ -1,2 +1,2 @@
 # 24Pattern
-learn pattern
+责任链模式：
