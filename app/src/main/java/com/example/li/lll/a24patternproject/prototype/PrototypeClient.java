@@ -2,6 +2,9 @@ package com.example.li.lll.a24patternproject.prototype;
 
 import java.io.IOException;
 
+/**
+ * 原型模式 用原型实例制定创建对象的种类，并通过拷贝这些原型创建性的对象。
+ */
 public class PrototypeClient {
 
     public static void shallowCopy() throws CloneNotSupportedException{
