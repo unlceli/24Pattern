@@ -1,5 +1,9 @@
 package com.example.li.lll.a24patternproject.template;
 
+
+/**
+  实现了一个模板方法，定义算法的骨架，具体子类将重定义primitionOperation 以实现一个算法的步骤。
+ */
 public abstract class AbstractTemplate {
     public abstract void primitiveOperation1();
 
