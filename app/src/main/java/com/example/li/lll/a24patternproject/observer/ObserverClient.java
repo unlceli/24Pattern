@@ -9,6 +9,7 @@ package com.example.li.lll.a24patternproject.observer;
  * 1.特点 讲一个系统分割成一系列相互协作的类有一个很不好的副作用，
  * 那就是需要维护相关对象间的一致性，我们不许忘为了维护一致性而使得各类紧密耦合，这样会给维护扩展和重用带来不便。
  *
+ * 事件委托实现:
  */
 public class ObserverClient {
 
