@@ -1,7 +1,9 @@
 package com.example.li.lll.a24patternproject.decorator;
 
 /**
- * Decorator 类，装饰抽象类，继承Component，从外类来扩展Compponent类的功能，但对于扩展Component来说，是无需知道Decorator的存在的。
+ * Decorator 类，装饰抽象类，继承Component，从外类来扩展Compponent类的功能，
+ *
+ * 但对于扩展Component来说，是无需知道Decorator的存在的。
  */
 public abstract class Decorator extends Component{
 
