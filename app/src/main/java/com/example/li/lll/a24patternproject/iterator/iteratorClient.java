@@ -2,6 +2,8 @@ package com.example.li.lll.a24patternproject.iterator;
 
 /**
  * 迭代器客户端
+ *
+ * 迭代器： 提供一种方法顺序访问一个集合对象中各个元素，而又不暴露该对象的内部表示。
  */
 public class iteratorClient {
 
