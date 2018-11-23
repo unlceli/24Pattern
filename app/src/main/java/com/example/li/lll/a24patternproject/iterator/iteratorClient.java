@@ -21,6 +21,7 @@ public class iteratorClient {
         bus.setItems("222");
         bus.setItems("333");
         bus.setItems("444");
+        bus.setItems("2222");
         bus.setItems("555");
 
         Iterator<String> iterator = new ConcreteIterator<>(bus);
