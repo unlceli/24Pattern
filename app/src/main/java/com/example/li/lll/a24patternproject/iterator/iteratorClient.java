@@ -29,7 +29,9 @@ public class iteratorClient {
         while (!iterator.isDone()){
             System.out.println(iterator.currentItem()+ "号 去 测试");
             if (iterator.currentItem().equals("11")){
+                System.out.println("");
                 break;
+
             }
             iterator.next();
         }
